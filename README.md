@@ -1,4 +1,4 @@
-# milage_calcualator
+# mileage_calcualator
 
 A new Flutter project.
 
